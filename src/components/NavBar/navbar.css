@@ -1,0 +1,57 @@
+.navbar{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    border-bottom: 2px solid black;
+}
+
+.icon-navbar{
+    width: 100px;
+    height: 100px;
+    margin: 10px 20px
+}
+.list{
+    display: flex;
+    align-items: center;
+    list-style:  none;
+}
+.list li{
+    width: 100px;
+}
+
+.cart{
+    
+    width: 85px; 
+    height: 50px;
+    margin: 40px 20px
+}
+
+.itemMenu{
+    color: white;
+}   
+
+.botonMenu{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.cantidadCompradas{
+    font: optional;
+    font-size: 30px;
+    color: red;
+
+    margin-top: 15px;
+    margin-right: 50px;
+    padding-left: 0px;
+    padding-top: 10px;
+}
+    
+
+
+.texto{
+    font: arial;
+    width: 100%;
+    text-align: center;
+    font-size: 50px;
+    color: green;
+}

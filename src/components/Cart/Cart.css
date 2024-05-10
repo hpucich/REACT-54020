@@ -1,0 +1,21 @@
+.item{
+    color: blue;
+    padding-top: 50px;
+    
+}
+.center{
+    text-align: center;
+}
+
+.botonGrande{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.itemGrande{
+    font-size: 25px;
+    color: blue;
+}
+.verde{
+    color:green;    
+}
